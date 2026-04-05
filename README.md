@@ -25,3 +25,6 @@ Enter the folder path and asset type, and the script will rename the files autom
 
 ## Why this tool
 This tool was created as a simple pipeline utility to help maintain consistent naming conventions for Unreal Engine assets.
+
+## Purpose
+This project was created to practice the development of pipeline tools, automation, and workflow organisation for real-time and VFX production environments.
